@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Ethical Hacking and Website Development**
 
-- 👨‍💻 All of my projects are available at [https://itsyouradi.netlify.app/](https://itsyouradi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://itsyouradi.netlify.app/](https://itsyouradi.netlify.app)
 
 - 💬 Ask me about **Anything**
 
